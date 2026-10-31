@@ -111,11 +111,11 @@
 ### 🔗 Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi-x&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" width="100%" alt="Aditya Walvekar's GitHub Contribution Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=aadi-x&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" width="100%" alt="Aditya Walvekar's GitHub Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadi-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Aditya's GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=aadi-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Aditya's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-x&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Aditya's GitHub Streak" />
 </p>
 
